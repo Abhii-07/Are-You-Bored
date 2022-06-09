@@ -1,6 +1,7 @@
 # I am Bored 🥱
 
 This is a fun-filled project created using React. Basically finds random interesting activity to do when you are bored.
+&ensp;
 Demo : https://bored-app-react.vercel.app/
 
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
