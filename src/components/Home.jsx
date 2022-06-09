@@ -18,7 +18,7 @@ const Home = () => {
             <Container className="">
                 <div style={{display: "grid", placeItems: "center"}}>
                     <h2 className="mt-4">Are you Bored?</h2>
-                    <img src="/image/bored-man.jpg" style={{height: "75%"}} />
+                    <img src="/image/bored.jpg" style={{height: "75%"}} />
                     <h3>Let's finds something interesting to do.</h3>
                     <button onClick={handleFindActivity} className="btn btn-primary mt-2 mb-2">Find something interesting randomly</button>
                     <h4>{activity}</h4>
